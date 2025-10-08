@@ -36,7 +36,7 @@ babylon-mmd-showcase
 babylon-mmd-showcase, cmdより「npm install」を実行。
 
 ## 5. ブラウザで開く
-start_babylon-mmd-showcase.batを実行するだけ。(ブラウザ起動)
+start_babylon-mmd-showcase.batを実行するだけ。(ブラウザ起動)<br/>
 (start_babylon-mmd-showcase.batをbabylon-mmd-showcaseフォルダに入れておく。)
 
 ## 参考資料
