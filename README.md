@@ -1,4 +1,4 @@
-1. Node.jsインストール
+## 1. Node.jsインストール
    
 https://nodejs.org/ja/download
 
@@ -8,14 +8,14 @@ https://nodejs.org/ja/download
 
 「node -v」「npm -v」でインストールできたか一応確認した。
 
-2. データ配置: リポジトリ取得
+## 2. データ配置: リポジトリ取得
 babylon-mmd-showcaseを入れたい場所にcmdより
 
 ```pwsh
 git clone https://github.com/noname0310/babylon-mmd-showcase.git
 ```
 
-4. データ配置: アセットDL
+## 3. データ配置: アセットDL
 babylon-mmd-showcase内のresフォルダ内にprivate_test作成。以下のような構成にする。
 
 babylon-mmd-showcase
@@ -28,11 +28,11 @@ babylon-mmd-showcase
 　　　げのげ式初音ミク
 　　　　げのげ式初音ミク.pmx等
 
-5. 実行
+## 4. 実行
    
 babylon-mmd-showcase, cmdより「npm install」「npm start」を実行。
 
-7. ブラウザで開く
+## 5. ブラウザで開く
    
 実行すると文字列が沢山出てくるので、
 ```pwsh
@@ -41,7 +41,7 @@ babylon-mmd-showcase, cmdより「npm install」「npm start」を実行。
 
 からはじまる行を見つける。この行の https://localhost:xxxxx (xxxxxはポート番号)のリンク先に飛ぶ。
 
-8. 終了
+## 6. 終了
 cmd上で「Ctrl + C」
 
 バッチジョブを終了しますか (Y/N)? でY
