@@ -15,19 +15,10 @@ git clone https://github.com/noname0310/babylon-mmd-showcase.git
 ```
 
 ## 3. データ配置: アセットDL
-babylon-mmd-showcase内のresフォルダ内にprivate_test作成。以下のような構成にする。
+babylon-mmd-showcase内のresフォルダ内にprivate_test作成。以下のような構成にする。<br/>
+新規フォルダ作成、名前が参照されているためこの通りにする。
 
 ```
-babylon-mmd-showcase
-└─ res
-└─ private_test
-└─ Telephone
-├─ モーション (.vmd)
-├─ カメラ (任意)
-├─ Telephone.mp3 / .wav
-└─ げのげ式初音ミク
-└─ げのげ式初音ミク.pmx 等
-
 babylon-mmd-showcase
 └─ res
    └─ private_test
