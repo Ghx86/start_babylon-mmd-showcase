@@ -1,4 +1,4 @@
-start_babylon-mmd-showcase.batをbabylon-mmd-showcaseフォルダに入れて実行するだけ。
+start_babylon-mmd-showcase.batをbabylon-mmd-showcaseフォルダに入れておく。
 
 ## 1. Node.jsインストール
    
@@ -33,19 +33,11 @@ babylon-mmd-showcase
 ```
 
 ## 4. 実行
-babylon-mmd-showcase, cmdより「npm install」「npm start」を実行。
+babylon-mmd-showcase, cmdより「npm install」を実行。
 
 ## 5. ブラウザで開く
-   
-実行すると文字列が沢山出てくるので、
-```cmd
-<i> [webpack-dev-server] Loopback: https://localhost:xxxxx/
-```
-からはじまる行を見つける。この行の https://localhost:xxxxx (xxxxxはポート番号)のリンク先に飛ぶ。
-
-## 6. 終了
-cmd上で「Ctrl + C」<br/>
-バッチジョブを終了しますか (Y/N)? でY
+start_babylon-mmd-showcase.batを実行するだけ。(ブラウザ起動)
+(start_babylon-mmd-showcase.batをbabylon-mmd-showcaseフォルダに入れておく。)
 
 ## 参考資料
 [babylon-mmd-showcase](https://github.com/noname0310/babylon-mmd)
