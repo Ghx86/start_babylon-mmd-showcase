@@ -1,4 +1,4 @@
-start_babylon-mmd-showcase.batをbabylon-mmd-showcaseと同階層に入れて実行するだけ。
+start_babylon-mmd-showcase.batをbabylon-mmd-showcaseフォルダに入れて実行するだけ。
 
 ## 1. Node.jsインストール
    
