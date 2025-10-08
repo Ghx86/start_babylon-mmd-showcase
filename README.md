@@ -4,15 +4,12 @@ start_babylon-mmd-showcase.batをbabylon-mmd-showcaseフォルダに入れて実
    
 https://nodejs.org/ja/download
 
-からNode.js (最新LTSで問題ない)をダウンロードする。Windowsインストーラー (.msi x64)を選択した。
-
-おそらくC:\Program Files\nodejsがデフォルトパス。セットアップはYes連打で問題なかった。
-
+からNode.js (最新LTSで問題ない)をダウンロードする。Windowsインストーラー (.msi x64)を選択した。<br/>
+おそらくC:\Program Files\nodejsがデフォルトパス。セットアップはYes連打で問題なかった。<br/>
 「node -v」「npm -v」でインストールできたか一応確認した。
 
 ## 2. データ配置: リポジトリ取得
 babylon-mmd-showcaseを入れたい場所にcmdより
-
 ```pwsh
 git clone https://github.com/noname0310/babylon-mmd-showcase.git
 ```
@@ -31,7 +28,6 @@ babylon-mmd-showcase
 　　　　げのげ式初音ミク.pmx等
 
 ## 4. 実行
-   
 babylon-mmd-showcase, cmdより「npm install」「npm start」を実行。
 
 ## 5. ブラウザで開く
@@ -40,12 +36,10 @@ babylon-mmd-showcase, cmdより「npm install」「npm start」を実行。
 ```pwsh
 <i> [webpack-dev-server] Loopback: https://localhost:xxxxx/
 ```
-
 からはじまる行を見つける。この行の https://localhost:xxxxx (xxxxxはポート番号)のリンク先に飛ぶ。
 
 ## 6. 終了
-cmd上で「Ctrl + C」
-
+cmd上で「Ctrl + C」<br/>
 バッチジョブを終了しますか (Y/N)? でY
 
 [babylon-mmd-showcase](https://github.com/noname0310/babylon-mmd)
