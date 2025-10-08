@@ -1,7 +1,8 @@
 start_babylon-mmd-showcase.batをbabylon-mmd-showcaseフォルダに入れておく。
 
+<img width="337" height="640" alt="スクリーンショット 2025-10-09 003739" src="https://github.com/user-attachments/assets/a786df81-104c-488c-9d96-f2118ef1e3c7" />
+
 ## 1. インストール
-   
 https://nodejs.org/ja/download
 
 からNode.js (最新LTSで問題ない)をダウンロードする。Windowsインストーラー (.msi x64)を選択した。<br/>
