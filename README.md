@@ -40,6 +40,6 @@ start_babylon-mmd-showcase.batを実行するだけ。(ブラウザが起動)<br
 (start_babylon-mmd-showcase.batをbabylon-mmd-showcaseフォルダに入れておく。)
 
 ## 参考資料
-[babylon-mmd-showcase](https://github.com/noname0310/babylon-mmd)
+[babylon-mmd-showcase](https://github.com/noname0310/babylon-mmd-showcase)
 
 
